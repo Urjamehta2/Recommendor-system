@@ -14,5 +14,5 @@ The Streamlit app shows recommendations with **book cover images**, title, autho
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/book-recommender.git
+git clone https://github.com/Urjamehta2/Recommendor-system.git
 cd book-recommender
