@@ -15,4 +15,4 @@ The Streamlit app shows recommendations with **book cover images**, title, autho
 
 ```bash
 git clone https://github.com/Urjamehta2/Recommendor-system.git
-cd book-recommender
+cd Recommendor-system
