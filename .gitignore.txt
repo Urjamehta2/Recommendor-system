@@ -1,0 +1,10 @@
+# Ignore original large dataset
+GoodReads_100k_books.csv
+
+# Ignore large model files
+models/*.pkl
+
+# Ignore virtual environment
+__pycache__/
+*.pyc
+.venv/
